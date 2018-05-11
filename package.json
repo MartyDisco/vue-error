@@ -1,0 +1,23 @@
+{
+	"name": "vue-error",
+	"version": "1.0.0",
+	"license": "MIT",
+	"author": "Martin PARENT <mparent@adon-immo.com> (https://adon-immo.com)",
+	"description": "A simple Vue wrapper on StandardError.js, providing a simple yet powerful way to deal with errors",
+	"keywords": [
+		"simple",
+		"vue",
+		"error",
+		"custom",
+		"stack trace",
+		"extra"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MartyDisco/vue-error.git"
+	},
+	"main": "index.js",
+	"dependencies": {
+		"standard-error": "^1.1.0"
+	}
+}
