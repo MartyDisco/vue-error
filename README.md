@@ -1,4 +1,4 @@
-# AdOn Candle
+# Vue Error
 
 A simple Vue wrapper on StandardError.js, providing a simple yet powerful way to deal with errors
 
