@@ -1,6 +1,6 @@
 {
 	"name": "vue-error",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"author": "Martin PARENT <mparent@adon-immo.com> (https://adon-immo.com)",
 	"description": "A simple Vue wrapper on StandardError.js, providing a simple yet powerful way to deal with errors",
